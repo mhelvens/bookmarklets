@@ -45,7 +45,7 @@
 
 
 	/* html for the buttons */
-	var buttonCode = '<a href="#" style="color: red; border: solid 1px red; margin-left: 5px; display: block; height: 10px; width: 10px; position: absolute; top: 2px; right: 2px;"></a>';
+	var buttonCode = '<a href="#" style="color: red; border: solid 1px red; display: block; height: 10px; width: 10px; position: absolute; top: 2px; right: 2px;"></a>';
 
 
 	/* put in all the buttons */
